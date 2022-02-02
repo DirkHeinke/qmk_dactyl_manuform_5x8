@@ -1,0 +1,1 @@
+Dactyl Manuform, 5x7 Layout but wired as 5x8
