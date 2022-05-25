@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "config_common.h"
 
-#define PRODUCT_ID      0x3537
+#define PRODUCT_ID      0x9963
 #define DEVICE_VER      0x0001
 #define PRODUCT         Dactyl-Manuform (5x8)
 
